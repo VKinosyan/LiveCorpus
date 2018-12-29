@@ -1,0 +1,300 @@
+# newdoc
+
+# newpar
+# sent_id = 23
+# text = спасибо / ааамм / есть место куда вы хотели бы съееездить или вернуться если б была возможность / что это за место и почему
+1	спасибо	спасибо	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	0	root	_	_
+2	/	/	PUNCT	_	_	1	punct	_	_
+3	ааамм	ааамма	INTJ	_		1	nmod	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	parataxis	_	_
+6	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	5	nsubj	_	_
+7	куда	куда	ADV	_	Degree=Pos	9	advmod	_	_
+8	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	9	nsubj	_	_
+9	хотели	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
+10	бы	бы	PART	_	Mood=Cnd	9	aux	_	_
+11	съееездить	съееездить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+12	или	или	CCONJ	_	_	13	cc	_	_
+13	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	conj	_	_
+14	если	если	SCONJ	_	_	17	mark	_	_
+15	б	бы	PART	_	Mood=Cnd	17	nsubj	_	_
+16	была	быть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	17	cop	_	_
+17	возможность	возможность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	13	obl	_	_
+18	/	/	PUNCT	_	_	22	punct	_	_
+19	что	что	PRON	_	Case=Nom	22	amod	_	_
+20	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	22	nsubj	_	_
+21	за	за	ADP	_	_	22	case	_	_
+22	место	место	NOUN	_	Animacy=Inan|Case=Acc|Gender=Neut|Number=Sing	17	nmod	_	_
+23	и	и	CCONJ	_	_	24	cc	_	_
+24	почему	почему	ADV	_	Degree=Pos	17	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 24
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 25
+# text = ну вернуться я бы хотела / ааа / в Индию / и Непал я там уже была / иии / мне кажется далеко не все посмотрела / аа / еще я хотела б поездить по Европе потому что там к сожалению тоже я не везде была / и меня / очень всегда
+1	ну	ну	PART	_	_	2	discourse	_	_
+2	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	0	root	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	19	nsubj	_	_
+4	бы	бы	PART	_	Mood=Cnd	5	aux	_	_
+5	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	advcl	_	_
+6	/	/	PUNCT	_	_	5	punct	_	_
+7	ааа	аа	INTJ	_		19	obl	_	_
+8	/	/	PUNCT	_	_	10	punct	_	_
+9	в	в	ADP	_	_	10	case	_	_
+10	Индию	Индия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	7	nmod	_	_
+11	/	/	PUNCT	_	_	13	punct	_	_
+12	и	и	CCONJ	_	_	13	cc	_	_
+13	Непал	Непал	NOUN	_	Animacy=Inan|Case=Acc|Gender=Masc|Number=Sing	10	conj	_	_
+14	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	19	nsubj	_	_
+15	там	там	ADV	_	Degree=Pos	19	advmod	_	_
+16	уже	уже	ADV	_	Degree=Pos	19	obl	_	_
+17	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	19	cop	_	_
+18	/	/	PUNCT	_	_	17	punct	_	_
+19	иии	иии	SCONJ	_		2	obl	_	_
+20	/	/	PUNCT	_	_	22	punct	_	_
+21	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	22	iobj	_	_
+22	кажется	казаться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	19	parataxis	_	_
+23	далеко	далеко	ADV	_	Degree=Pos	24	advmod	_	_
+24	не	не	PART	_	_	25	advmod	_	_
+25	все	все	DET	_	Case=Nom|Number=Plur	26	det	_	_
+26	посмотрела	смотреть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	22	obl	_	_
+27	/	/	PUNCT	_	_	28	punct	_	_
+28	аа	а	INTJ	_		26	nmod	_	_
+29	/	/	PUNCT	_	_	32	punct	_	_
+30	еще	еще	ADV	_	Degree=Pos	32	advmod	_	_
+31	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	32	nsubj	_	_
+32	хотела	хотеть	VERB	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	22	conj	_	_
+33	б	бы	PART	_	Mood=Cnd	32	aux	_	_
+34	поездить	ездить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	32	xcomp	_	_
+35	по	по	ADP	_	_	36	case	_	_
+36	Европе	Европа	PROPN	_	Animacy=Inan|Case=Dat|Gender=Fem|Number=Sing	34	obl	_	_
+37	потому	потому	ADV	_	Degree=Pos	52	mark	_	_
+38	что	что	SCONJ	_	_	37	fixed	_	_
+39	там	там	ADV	_	Degree=Pos	52	advmod	_	_
+40	к	к	ADP	_	_	41	case	_	_
+41	сожалению	сожаление	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	52	obl	_	_
+42	тоже	тоже	PART	_	_	41	advmod	_	_
+43	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	52	nsubj	_	_
+44	не	не	PART	_	_	45	advmod	_	_
+45	везде	везде	ADV	_	Degree=Pos	52	advmod	_	_
+46	была	быть	AUX	_	Aspect=Imp|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	52	cop	_	_
+47	/	/	PUNCT	_	_	52	punct	_	_
+48	и	и	CCONJ	_	_	52	cc	_	_
+49	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	52	obj	_	_
+50	/	/	PUNCT	_	_	52	punct	_	_
+51	очень	очень	ADV	_	Degree=Pos	52	advmod	_	_
+52	всегда	всегда	ADV	_	Degree=Pos	34	advmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 26
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 27
+# text = восхищает и восторгает
+1	восхищает	восхищать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	восторгает	восторгать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	conj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 28
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 29
+# text = что
+1	что	что	SCONJ	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 30
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 31
+# text = мм
+1	мм	мм	NOUN	_	Animacy=Inan|Case=Nom|Gender=Masc|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 32
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 33
+# text = при том что
+1	при	при	ADP	_	_	2	case	_	_
+2	том	то	PRON	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	3	nmod	_	_
+3	что	что	SCONJ	_	_	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 34
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 35
+# text = жизнь вроде как такая же как у нас но / все / а / красивее / тише / спокойней / иии / есть такая укорененность опять же / в истории / и нету какой-то разорванности / и / мне всегда это очень нравится поэтому мне нравится Европа
+1	жизнь	жизнь	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	2	nsubj	_	_
+2	вроде	вроде	ADV	_	Degree=Pos	0	root	_	_
+3	как	как	SCONJ	_	_	4	mark	_	_
+4	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	2	det	_	_
+5	же	же	PART	_	_	4	advmod	_	_
+6	как	как	SCONJ	_	_	8	mark	_	_
+7	у	у	ADP	_	_	8	case	_	_
+8	нас	мы	PRON	_	Case=Gen|Number=Plur|Person=1	4	nmod	_	_
+9	но	но	CCONJ	_	_	11	cc	_	_
+10	/	/	PUNCT	_	_	11	punct	_	_
+11	все	все	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	8	conj	_	_
+12	/	/	PUNCT	_	_	15	punct	_	_
+13	а	а	CCONJ	_	_	15	cc	_	_
+14	/	/	PUNCT	_	_	15	punct	_	_
+15	красивее	красивый	ADJ	_	Degree=Cmp	11	conj	_	_
+16	/	/	PUNCT	_	_	17	punct	_	_
+17	тише	тихий	ADJ	_	Degree=Cmp	15	parataxis	_	_
+18	/	/	PUNCT	_	_	19	punct	_	_
+19	спокойней	спокойный	ADJ	_	Degree=Cmp	17	conj	_	_
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	иии	и	CCONJ	_		19	parataxis	_	_
+22	/	/	PUNCT	_	_	23	punct	_	_
+23	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	21	conj	_	_
+24	такая	такой	DET	_	Case=Nom|Gender=Fem|Number=Sing	25	det	_	_
+25	укорененность	укорененность	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	23	nsubj	_	_
+26	опять	опять	ADV	_	Degree=Pos	23	advmod	_	_
+27	же	же	PART	_	_	26	advmod	_	_
+28	/	/	PUNCT	_	_	30	punct	_	_
+29	в	в	ADP	_	_	30	case	_	_
+30	истории	история	NOUN	_	Animacy=Inan|Case=Loc|Gender=Fem|Number=Sing	26	parataxis	_	_
+31	/	/	PUNCT	_	_	33	punct	_	_
+32	и	и	CCONJ	_	_	33	cc	_	_
+33	нету	нет	PART	_	30	conj	_	_
+34	какой-то	какой-то	DET	_	Case=Gen|Gender=Fem|Number=Sing	35	det	_	_
+35	разорванности	разорванность	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	46	obl	_	_
+36	/	/	PUNCT	_	_	43	punct	_	_
+37	и	и	CCONJ	_	_	43	cc	_	_
+38	/	/	PUNCT	_	_	43	punct	_	_
+39	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	43	iobj	_	_
+40	всегда	всегда	ADV	_	Degree=Pos	43	advmod	_	_
+41	это	это	PRON	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	43	nsubj	_	_
+42	очень	очень	ADV	_	Degree=Pos	43	advmod	_	_
+43	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	35	conj	_	_
+44	поэтому	поэтому	ADV	_	Degree=Pos	43	advmod	_	_
+45	мне	я	PRON	_	Case=Dat|Number=Sing|Person=1	43	iobj	_	_
+46	нравится	нравиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	33	parataxis	_	_
+47	Европа	Европа	PROPN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	46	nsubj	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 36
+# text = @kvl@
+1	@kvl@	@kvl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 37
+# text = а есть какое-то место которое вас особенно поразило?
+1	а	а	CCONJ	_	_	8	cc	_	_
+2	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	1	fixed	_	_
+3	какое-то	какой-то	DET	_	Case=Nom|Gender=Neut|Number=Sing	4	det	_	_
+4	место	место	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Sing	8	nsubj	_	_
+5	которое	который	PRON	_	Case=Nom	4	nmod	_	_
+6	вас	вы	PRON	_	Case=Acc|Number=Sing|Person=2	8	obj	_	_
+7	особенно	особенно	ADV	_	Degree=Pos	8	advmod	_	_
+8	поразило	поразить	VERB	_	Aspect=Perf|Gender=Neut|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	SpaceAfter=No
+9	?	?	PUNCT	_	_	8	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 38
+# text = @kvl@
+1	@kvl@	@kvl@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 39
+# text = ну и чем соответсвенно если есть?
+1	ну	ну	PART	_	_	3	parataxis	_	_
+2	и	и	CCONJ	_	_	3	cc	_	_
+3	чем	чем	PRON	_	Case=Ins	0	root	_	_
+4	соответсвенно	соответсвенно	ADV	_	Degree=Pos	6	advmod	_	_
+5	если	если	SCONJ	_	_	6	mark	_	_
+6	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	3	advcl	_	SpaceAfter=No
+7	?	?	PUNCT	_	_	3	punct	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 40
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 41
+# text = ну я помню что меня особенно поразила моя первая поездка в Италию
+1	ну	ну	PART	_	_	3	parataxis	_	_
+2	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	3	nsubj	_	_
+3	помню	помнить	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	0	root	_	_
+4	что	что	SCONJ	_	_	7	mark	_	_
+5	меня	я	PRON	_	Case=Acc|Number=Sing|Person=1	7	obj	_	_
+6	особенно	особенно	ADV	_	Degree=Pos	7	advmod	_	_
+7	поразила	поразить	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	3	ccomp	_	_
+8	моя	мой	DET	_	Case=Nom|Gender=Fem|Number=Sing	10	det	_	_
+9	первая	первый	ADJ	_	Case=Nom|Degree=Pos|Gender=Fem|Number=Sing	10	amod	_	_
+10	поездка	поездка	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	7	nsubj	_	_
+11	в	в	ADP	_	_	12	case	_	_
+12	Италию	Италия	PROPN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	10	nmod	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 42
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 43
+# text = именно вот этим
+1	именно	именно	PART	_	_	2	advmod	_	_
+2	вот	вот	PART	_	_	3	advmod	_	_
+3	этим	это	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 44
+# text = @ley@
+1	@ley@	@ley@	NOUN	_	Animacy=Inan|Case=Gen|Gender=Fem|Number=Sing	0	root	_	SpacesAfter=\n\n
+
+# newpar
+# sent_id = 45
+# text = о чем я / ааа сказала сейчас: такой / аа / простой красотой / аа / заботливостью ухоженностью / иии / ээ историчностью тем что / сохранены здания / они в отличном состоянии / ты идешь и ты понимаешь / что / ты идешь одновременно в двадцать первом веке и семнадцатом и восемнадцатом и в пятнадцатом / ии мм как это с любовью очень люди относятся / аа / ко всему что вокруг них / и я помню меня поразило что любой прохожий может рассказать про любое здание / и это не составляет какого-то большого труда и это не какой-то гражданский подвиг просто это люди живут и понимают и знают что происходит вокруг них / у нас конечно немножко по-другому сейчас
+1	о	о	ADP	_	_	2	case	_	_
+2	чем	что	PRON	_	Case=Loc	6	obl	_	_
+3	я	я	PRON	_	Case=Nom|Number=Sing|Person=1	6	nsubj	_	_
+4	/	/	PUNCT	_	_	5	punct	_	_
+5	ааа	аа	INTJ	_		6	nsubj	_	_
+6	сказала	сказать	VERB	_	Aspect=Perf|Gender=Fem|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	0	root	_	_
+7	сейчас	сейчас	ADV	_	Degree=Pos	6	advmod	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	6	punct	_	_
+9	такой	такой	DET	_	Case=Nom|Gender=Masc|Number=Sing	11	det	_	_
+10	/	/	PUNCT	_	_	9	punct	_	_
+11	аа	ао	INTJ	_		6	obl	_	_
+12	/	/	PUNCT	_	_	14	punct	_	_
+13	простой	простой	ADJ	_	Case=Ins|Degree=Pos|Gender=Fem|Number=Sing	14	amod	_	_
+14	красотой	красота	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	11	nmod	_	_
+15	/	/	PUNCT	_	_	16	punct	_	_
+16	аа	а	INTJ	_		14	nmod	_	_
+17	/	/	PUNCT	_	_	18	punct	_	_
+18	заботливостью	заботливость	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	14	conj	_	_
+19	ухоженностью	ухоженность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	18	nmod	_	_
+20	/	/	PUNCT	_	_	21	punct	_	_
+21	иии	иии	CCONJ	_		19	nmod	_	_
+22	/	/	PUNCT	_	_	23	punct	_	_
+23	ээ	ээ	INTJ	_	_	18	parataxis	_	_
+24	историчностью	историчность	NOUN	_	Animacy=Inan|Case=Ins|Gender=Fem|Number=Sing	25	nmod	_	_
+25	тем	то	PRON	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	23	obl	_	_
+26	что	что	SCONJ	_	_	28	mark	_	_
+27	/	/	PUNCT	_	_	26	punct	_	_
+28	сохранены	сохранить	VERB	_	Aspect=Perf|Number=Plur|Tense=Past|Variant=Short|VerbForm=Part|Voice=Pass	25	acl	_	_
+29	здания	здание	NOUN	_	Animacy=Inan|Case=Nom|Gender=Neut|Number=Plur	28	nsubj:pass	_	_
+30	/	/	PUNCT	_	_	34	punct	_	_
+31	они	они	PRON	_	Case=Nom|Number=Plur|Person=3	34	nsubj	_	_
+32	в	в	ADP	_	_	34	case	_	_
+33	отличном	отличный	ADJ	_	Case=Loc|Degree=Pos|Gender=Neut|Number=Sing	34	amod	_	_
+34	состоянии	состояние	NOUN	_	Animacy=Inan|Case=Loc|Gender=Neut|Number=Sing	29	nmod	_	_
