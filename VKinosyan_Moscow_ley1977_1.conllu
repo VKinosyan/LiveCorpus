@@ -13,7 +13,7 @@
 8	вы	вы	PRON	_	Case=Nom|Number=Plur|Person=2	9	nsubj	_	_
 9	хотели	хотеть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	5	parataxis	_	_
 10	бы	бы	PART	_	Mood=Cnd	9	aux	_	_
-11	съееездить	съееездить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
+11	съееездить	съездить	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Act	9	xcomp	_	_
 12	или	или	CCONJ	_	_	13	cc	_	_
 13	вернуться	вернуться	VERB	_	Aspect=Perf|VerbForm=Inf|Voice=Mid	11	conj	_	_
 14	если	если	SCONJ	_	_	17	mark	_	_
